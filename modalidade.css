@@ -1,0 +1,31 @@
+.lead.estilo-lista{
+    
+    font-size: 18px;
+    }
+    
+    .background-blue{
+        
+        background-color: rgb(21,140,219);
+    }
+    
+    .font-orange{
+        
+        color:orange
+    }
+    
+    div:nth-child(1){
+        border-width: thin;
+    border-bottom-style: solid;
+       border-left-color: black;
+        border-color: blue;
+            
+     
+    }
+    
+    body{
+        
+        background-color: rgb(255,255,0,0.1);
+    
+     
+    }
+    
